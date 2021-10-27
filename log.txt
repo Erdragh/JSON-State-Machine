@@ -1,0 +1,2 @@
+Testing if String '100.000' is part of the language defined in './language.json'
+Result: true
